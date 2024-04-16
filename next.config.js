@@ -167,7 +167,7 @@ const nextConfig = {
     return config
   },
   experimental: {
-    scrollRestoration: true
+    scrollRestoration: false
   },
   exportPathMap: async function (
     defaultPathMap,
